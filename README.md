@@ -5,3 +5,5 @@ tab under main. Please run the Demo.scala to show the functionality of my progra
 
 In order to access the tests I created for my program please first open the build.sbt file and make sure both library dependencies are in the file in order run the scala tests.
 Next, open the ExpressionTest.Scala to view the tests i created both class methods. Then run the program to view the reulsts of the tests. 
+
+The "cs 476 Homeowrk 2" is the short report explaining the semantics of my program. 
